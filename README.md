@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3 align="center">Wassup, My name is Muhammad Radhitya Alif. Iam a fullstack developer</h3>
+<h3 align="center">Wassup, Nice to meet ya. I'm a fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rad283&label=Profile%20views&color=0e75b6&style=flat" alt="rad283" /> </p>
 
